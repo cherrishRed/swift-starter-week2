@@ -11,8 +11,6 @@
 
 ## 프로젝트 구조
 <img title="프로젝트 구조" src="https://i.imgur.com/8S2RImw.png" width="300">
-![](https://i.imgur.com/8S2RImw.png)
-
 
 ## 학습 내용
 
